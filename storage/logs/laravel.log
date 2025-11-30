@@ -1,0 +1,4 @@
+[2025-11-30 05:35:16] local.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 60 seconds exceeded at C:\\xampp\\htdocs\\TrendPilot\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:811)
+[stacktrace]
+#0 {main}
+"} 
